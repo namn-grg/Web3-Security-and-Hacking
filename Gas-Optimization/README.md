@@ -17,3 +17,7 @@
 ### 8. Fixed length variables are better than variable length.
 
 ### 9. Use the concept of variable packing 🚀.
+
+### 10. Make your contract as specific as possible.
+
+### 11. Using 'constant' keyword.
